@@ -22,21 +22,21 @@ redirect_from:
 # 📖 教育经历
 <span class='anchor' id='educations'></span>
 
-- *2023.09 - 2026.06* 哈尔滨工业大学 机械工程 硕士
-- *2019.09 - 2023.06* 哈尔滨工业大学 自动化&人工智能 本科
+- *2023.09 - 2026.06*, 哈尔滨工业大学, 机械工程, 硕士
+- *2019.09 - 2023.06*, 哈尔滨工业大学, 自动化&人工智能, 本科
 
 # 💻 实习经历
 <span class='anchor' id='internships'></span>
 
-- *2025.04 - now* 字节跳动 AI Lab 算法工程师
-- *2023.11 - 2024.05* 百度 AI Lab 算法工程师
-- *2023.06 - 2023.09* 清华大学智能产业研究院 研究助理
-- *2022.12 - 2023.02* 大彊 控制算法工程师
+- *2025.04 - now*, 字节跳动 AI Lab, 算法工程师
+- *2023.11 - 2024.05*, 百度 AI Lab, 算法工程师
+- *2023.06 - 2023.09*, 清华大学智能产业研究院, 研究助理
+- *2022.12 - 2023.02*, 大彊, 控制算法工程师
 
 # 📝 学术论文
 <span class='anchor' id='publications'></span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/whole_body_constrained_learning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Whole-Body Constrained Learning for Legged Locomotion via Hierarchical Optimization](https://www.arxiv.org/pdf/2506.05115)
@@ -48,10 +48,10 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/imitation_enhanced.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Imitation-Enhanced Reinforcement Learning With Privileged Smooth Transition for Hexapod Locomotion](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Imitation-Enhanced Reinforcement Learning With Privileged Smooth Transition for Hexapod Locomotion](https://ieeexplore.ieee.org/document/10752370)
 
 Zhelin Zhang, Tie Liu, Liang Ding, **Haoyu Wang**, Peng Xu, Huaiguang Yang, Haibo Gao, Zongquan Deng, Joni Pajarinen
 
@@ -60,7 +60,7 @@ Zhelin Zhang, Tie Liu, Liang Ding, **Haoyu Wang**, Peng Xu, Huaiguang Yang, Haib
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/arm_constrained.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Arm-Constrained Curriculum Learning for Loco-Manipulation of a Wheel-Legged Robot](https://arxiv.org/pdf/2403.16535)
