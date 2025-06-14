@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "关于我"
-    url: "/#关于我"
+    url: "#关于我"
 
   - title: "教育经历"
-    url: "/#-教育经历"
+    url: "#-教育经历"
 
   - title: "实习经历"
-    url: "/#-实习经历"
+    url: "#-实习经历"
 
   - title: "学术论文"
-    url: "/#-学术论文"
+    url: "#-学术论文"
 
   - title: "竞赛奖项"
-    url: "/#-竞赛奖项"
+    url: "#-竞赛奖项"
