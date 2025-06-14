@@ -21,12 +21,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+# 📖 教育经历
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - 2026.06* 哈尔滨工业大学 机械工程 硕士
+- *2019.09 - 2023.06* 哈尔滨工业大学 自动化&人工智能 本科
 
-# 📝 Publications 
+# 💻 实习经历
+
+- *2025.04 - now* 字节跳动 AI Lab 算法工程师
+- *2023.11 - 2024.05* 百度 AI Lab 算法工程师
+- *2023.06 - 2023.09* 清华大学智能产业研究院 研究助理
+- *2022.12 - 2023.02* 大彊 控制算法工程师
+
+# 📝 学术论文
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -42,17 +49,15 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 竞赛奖项
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2017.06* FTC 机器人创客电视大赛 冠军
+- *2020.09* 第十二届“挑战杯”黑龙江省大学生创业计划竞赛 金奖
+- *2020.12* 第十二届“挑战杯”中国大学生创业计划竞赛 银奖
+- *2021.08* “建行杯”第七届黑龙江“互联网+”大学生创新创业大赛 银奖
+- *2021.12* 第十四届全国大学生创新创业年会 我最喜爱的项目
+- *2021.07* 全国大学生机器人大赛 ROBOCON 2021 投壶行觞 全国二等奖
+- *2022.07* 全国大学生机器人大赛 ROBOCON 2022 同创辉煌 全国三等奖
+- *2022.07* 全国大学生机器人大赛 ROBOCON 2022 机器马术 全国亚军，最佳技术奖
+- *2023.08* “申昊杯”第五届中国研究生机器人创新设计大赛 全国三等奖
+- *2023.10* “申昊杯”第六届中国研究生机器人创新设计大赛 全国三等奖
