@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -69,7 +69,9 @@ Zifan Wang, Yufei Jia, Lu Shi, **Haoyu Wang**, Haizhou Zhao, Xueyang Li, Jinni Z
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- ``ICRA Workshop 2024`` [ExACT: An End-to-End Autonomous Excavator System Using Action Chunking With Transformers](https://arxiv.org/pdf/2405.05861), Liangliang Chen, Shiyu Jin, **Haoyu Wang**, Liangjun Zhang
+- ``TIE (under review)`` KCFRC: Kinematic Collision-Aware Foothold Reachability Criteria for Legged Locomotion, Lei Ye, Haibo Gao, Huaiguang Yang, Peng Xu, **Haoyu Wang**, Tie Liu, Junqi Shan, Zongquan Deng, Liang Ding
+- ``MMT (under review)`` [Dimensional Design Method Based on Stability Analysis to Enhance Traversability of Heavy-duty Hexapod Robots over Challenging Terrains](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5167730), Yang Su, Liang Ding, Peng Xu, Guangshan Wang, Qingqing Wei, Tie Liu, **Haoyu Wang**, Haibo Gao
 
 # 🎖 竞赛奖项
 
