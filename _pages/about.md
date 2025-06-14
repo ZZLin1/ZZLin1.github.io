@@ -46,7 +46,6 @@ redirect_from:
 **Haoyu Wang**, Ruyi Zhou, Liang Ding, Tie Liu, Zhelin Zhang, Peng Xu, Haibo Gao and Zongquan Deng
 
 [**Project Page**](https://qrpucp.github.io/whole_body_constrained_learning/) 
-- 提出 
 </div>
 </div>
 
