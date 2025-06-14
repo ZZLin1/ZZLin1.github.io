@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haoyu Wang"
+title                    : "Haoyu Wang (王浩宇)"
 description              : "Master student in Harbin Institute of Technology. Focusing on robotics and reinforcement learning"
-repository               : "Qrpucp/qrpucp.github.io"
+repository               : "qrpucp/qrpucp.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -26,7 +26,7 @@ author:
   bio              : ""
   location         : # "Harbin, China"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=KGTraK0AAAAJ"
   email            : "haoyuwang_hit@foxmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
