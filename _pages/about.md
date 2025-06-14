@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我目前是
+我是26届的硕士生，就读于哈尔滨工业大学，机器人技术与系统国家重点实验室，导师为[丁亮](https://homepage.hit.edu.cn/liangding?lang=zh)教授。
+
+我的研究方向为机器人强化学习，最优控制以及轨迹优化，在硕士期间，我以第一作者发表一篇RA-L，另参与多篇IROS/ICRA/RA-L等机器人领域工作，同时担任RA-L审稿人。本科期间以竞赛为主，在全国大学生机器人大赛ROBOCON及各种创新创业大赛中多次获奖。
 
 # 📖 教育经历
 <span class='anchor' id='educations'></span>
@@ -44,7 +46,7 @@ redirect_from:
 **Haoyu Wang**, Ruyi Zhou, Liang Ding, Tie Liu, Zhelin Zhang, Peng Xu, Haibo Gao and Zongquan Deng
 
 [**Project Page**](https://qrpucp.github.io/whole_body_constrained_learning/) 
-- 提出
+- 提出 
 </div>
 </div>
 
@@ -55,8 +57,7 @@ redirect_from:
 
 Zhelin Zhang, Tie Liu, Liang Ding, **Haoyu Wang**, Peng Xu, Huaiguang Yang, Haibo Gao, Zongquan Deng, Joni Pajarinen
 
-[**Video**](https://www.youtube.com/watch?v=8hiOxqW0Vog)
-- 提出
+[**Video Material**](https://www.youtube.com/watch?v=8hiOxqW0Vog)
 </div>
 </div>
 
@@ -68,7 +69,6 @@ Zhelin Zhang, Tie Liu, Liang Ding, **Haoyu Wang**, Peng Xu, Huaiguang Yang, Haib
 Zifan Wang, Yufei Jia, Lu Shi, **Haoyu Wang**, Haizhou Zhao, Xueyang Li, Jinni Zhou, Jun Ma, Guyue Zhou
 
 [**Project Page**](https://acodedog.github.io/wheel-legged-loco-manipulation/)
-- 提出
 </div>
 </div>
 
