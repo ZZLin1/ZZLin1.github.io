@@ -41,14 +41,11 @@ redirect_from:
 **Haoyu Wang**, Ruyi Zhou, Liang Ding, Tie Liu, Zhelin Zhang, Peng Xu, Haibo Gao and Zongquan Deng
 
 [**Project Page**](https://qrpucp.github.io/whole_body_constrained_learning/) 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 提出
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Imitation-Enhanced Reinforcement Learning With Privileged Smooth Transition for Hexapod Locomotion](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -56,16 +53,19 @@ redirect_from:
 Zhelin Zhang, Tie Liu, Liang Ding, **Haoyu Wang**, Peng Xu, Huaiguang Yang, Haibo Gao, Zongquan Deng, Joni Pajarinen
 
 [**Video**](https://www.youtube.com/watch?v=8hiOxqW0Vog)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 提出
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Arm-Constrained Curriculum Learning for Loco-Manipulation of a Wheel-Legged Robot](https://arxiv.org/pdf/2403.16535)
 
 Zifan Wang, Yufei Jia, Lu Shi, **Haoyu Wang**, Haizhou Zhao, Xueyang Li, Jinni Zhou, Jun Ma, Guyue Zhou
 
 [**Project Page**](https://acodedog.github.io/wheel-legged-loco-manipulation/)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 提出
 </div>
 </div>
 
