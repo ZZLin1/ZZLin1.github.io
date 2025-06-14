@@ -20,11 +20,13 @@ redirect_from:
 我目前是
 
 # 📖 教育经历
+<span class='anchor' id='educations'></span>
 
 - *2023.09 - 2026.06* 哈尔滨工业大学 机械工程 硕士
 - *2019.09 - 2023.06* 哈尔滨工业大学 自动化&人工智能 本科
 
 # 💻 实习经历
+<span class='anchor' id='internships'></span>
 
 - *2025.04 - now* 字节跳动 AI Lab 算法工程师
 - *2023.11 - 2024.05* 百度 AI Lab 算法工程师
@@ -32,6 +34,7 @@ redirect_from:
 - *2022.12 - 2023.02* 大彊 控制算法工程师
 
 # 📝 学术论文
+<span class='anchor' id='publications'></span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -69,11 +72,12 @@ Zifan Wang, Yufei Jia, Lu Shi, **Haoyu Wang**, Haizhou Zhao, Xueyang Li, Jinni Z
 </div>
 </div>
 
-- ``ICRA Workshop 2024`` [ExACT: An End-to-End Autonomous Excavator System Using Action Chunking With Transformers](https://arxiv.org/pdf/2405.05861), Liangliang Chen, Shiyu Jin, **Haoyu Wang**, Liangjun Zhang
-- ``TIE (under review)`` KCFRC: Kinematic Collision-Aware Foothold Reachability Criteria for Legged Locomotion, Lei Ye, Haibo Gao, Huaiguang Yang, Peng Xu, **Haoyu Wang**, Tie Liu, Junqi Shan, Zongquan Deng, Liang Ding
-- ``MMT (under review)`` [Dimensional Design Method Based on Stability Analysis to Enhance Traversability of Heavy-duty Hexapod Robots over Challenging Terrains](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5167730), Yang Su, Liang Ding, Peng Xu, Guangshan Wang, Qingqing Wei, Tie Liu, **Haoyu Wang**, Haibo Gao
+- [ExACT: An End-to-End Autonomous Excavator System Using Action Chunking With Transformers](https://arxiv.org/pdf/2405.05861), Liangliang Chen, Shiyu Jin, **Haoyu Wang**, Liangjun Zhang. **2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**
+- KCFRC: Kinematic Collision-Aware Foothold Reachability Criteria for Legged Locomotion, Lei Ye, Haibo Gao, Huaiguang Yang, Peng Xu, **Haoyu Wang**, Tie Liu, Junqi Shan, Zongquan Deng, Liang Ding. **IEEE Transaction on Industrial Electronics (TIE) (under review)**
+- [Dimensional Design Method Based on Stability Analysis to Enhance Traversability of Heavy-duty Hexapod Robots over Challenging Terrains](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5167730), Yang Su, Liang Ding, Peng Xu, Guangshan Wang, Qingqing Wei, Tie Liu, **Haoyu Wang**, Haibo Gao. **Mechanism and Machine Theory (MMT) (under review)**
 
 # 🎖 竞赛奖项
+<span class='anchor' id='awards'></span>
 
 - *2017.06* FTC 机器人创客电视大赛 冠军
 - *2020.09* 第十二届“挑战杯”黑龙江省大学生创业计划竞赛 金奖
