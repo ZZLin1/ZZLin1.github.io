@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Zhelin Zhang (张哲霖)"
-description              : "Master student in Harbin Institute of Technology. Focusing on robotics and reinforcement learning"
-repository               : "qrpucp/qrpucp.github.io"
+description              : "A current doctoral student at Harbin Institute of Technology. Focusing on robotics and reinforcement learning"
+repository               : "ZZLin1/ZZLin1.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -27,8 +27,8 @@ author:
   location         : # "Harbin, China"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=KGTraK0AAAAJ"
-  email            : "haoyuwang_hit@foxmail.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=6rv1oSYAAAAJ"
+  email            : "22S008183@stu.hit.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Qrpucp"
+  github           : "ZZLin1"
   google_plus      :
   keybase          :
   instagram        :
