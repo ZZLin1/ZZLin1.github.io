@@ -30,7 +30,7 @@ redirect_from:
 # 📝 学术论文
 <span class='anchor' id='publications'></span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/IERL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/IERL.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Imitation-Enhanced Reinforcement Learning With Privileged Smooth Transition for Hexapod Locomotion](https://ieeexplore.ieee.org/abstract/document/10752370)
@@ -41,23 +41,23 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE(under review)</div><img src='images/LAA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE (under review)</div><img src='images/LAA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Legs-as-Arms:A Multitask Reinforcement Learning Framework for Simultaneous Loco-Manipulation in Hexapod Robots].
+[Legs-as-Arms:A Multitask Reinforcement Learning Framework for Simultaneous Loco-Manipulation in Hexapod Robots](https://zzlin1.github.io/Legs_as_Arms.github.io/).
 
 **Zhelin Zhang**, Liang Ding, Peng Xu*, Tie Liu, Ao Zhang, Huaiguang Yang, Haibo Gao, Zongquan Deng
 
-[**Project Page**]([https://www.youtube.com/watch?v=8hiOxqW0Vog](https://zzlin1.github.io/Legs_as_Arms.github.io/))
+[**Project Page**](https://zzlin1.github.io/Legs_as_Arms.github.io/)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/whole_body_constrained_learning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/WBCL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Whole-Body Constrained Learning for Legged Locomotion via Hierarchical Optimization](https://www.arxiv.org/pdf/2506.05115)
 
-**Haoyu Wang**, Ruyi Zhou, Liang Ding, Tie Liu, Zhelin Zhang, Peng Xu, Haibo Gao and Zongquan Deng
+Haoyu Wang, Ruyi Zhou, Liang Ding, Tie Liu, **Zhelin Zhang**, Peng Xu, Haibo Gao and Zongquan Deng
 
 [**Project Page**](https://qrpucp.github.io/whole_body_constrained_learning/) 
 </div>
