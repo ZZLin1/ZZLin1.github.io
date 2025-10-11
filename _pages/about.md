@@ -30,7 +30,7 @@ redirect_from:
 # 📝 学术论文
 <span class='anchor' id='publications'></span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/IERL.JPG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/IERL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Imitation-Enhanced Reinforcement Learning With Privileged Smooth Transition for Hexapod Locomotion](https://ieeexplore.ieee.org/abstract/document/10752370)
