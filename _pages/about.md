@@ -27,16 +27,19 @@ redirect_from:
 - *2022.09 - 2024.06*, 哈尔滨工业大学, 航空宇航科学与技术, 学术型硕士, **获提前毕业资格，全学院仅20人**
 - *2018.09 - 2022.06*, 哈尔滨工业大学, 机械设计制造及其自动化, 本科, **免试保送研究生**
 
-# 💻 实习经历
-<span class='anchor' id='internships'></span>
-
-- *2025.04 - now*, 字节跳动 AI Lab, 算法工程师
-- *2023.11 - 2024.05*, 百度 AI Lab, 算法工程师
-- *2023.06 - 2023.09*, 清华大学智能产业研究院, 研究助理
-- *2022.12 - 2023.02*, 大彊, 控制算法工程师
-
 # 📝 学术论文
 <span class='anchor' id='publications'></span>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/imitation_enhanced.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Imitation-Enhanced Reinforcement Learning With Privileged Smooth Transition for Hexapod Locomotion](https://ieeexplore.ieee.org/document/10752370)
+
+**Zhelin Zhang**, Tie Liu, Liang Ding, Haoyu Wang, Peng Xu, Huaiguang Yang, Haibo Gao, Zongquan Deng, Joni Pajarinen
+
+[**Video Material**](https://www.youtube.com/watch?v=8hiOxqW0Vog)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/whole_body_constrained_learning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,16 +52,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/imitation_enhanced.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Imitation-Enhanced Reinforcement Learning With Privileged Smooth Transition for Hexapod Locomotion](https://ieeexplore.ieee.org/document/10752370)
-
-Zhelin Zhang, Tie Liu, Liang Ding, **Haoyu Wang**, Peng Xu, Huaiguang Yang, Haibo Gao, Zongquan Deng, Joni Pajarinen
-
-[**Video Material**](https://www.youtube.com/watch?v=8hiOxqW0Vog)
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/arm_constrained.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
