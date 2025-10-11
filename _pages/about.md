@@ -21,6 +21,9 @@ redirect_from:
 
 主要研究方向为机器人强化学习，在足式机器人的机械设计与强化学习运动控制方面具有丰富的研究和工程经验。参与多项机器人领域工作，并担任 RA-L, T-ASE, IROS 等期刊会议审稿人。
 
+# 📥 简历下载
+[![下载个人简历](https://img.shields.io/badge/📄_下载个人简历-0056D2?style=for-the-badge&logo=adobeacrobatreader)]({{ site.url }}/images/resume_zzl.pdf)
+
 # 📖 教育经历
 <span class='anchor' id='educations'></span>
 - *2024.09 - 至今*, 哈尔滨工业大学, 航空宇航科学与技术, 学术型博士
