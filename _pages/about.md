@@ -30,14 +30,25 @@ redirect_from:
 # 📝 学术论文
 <span class='anchor' id='publications'></span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/imitation_enhanced.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/IERL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Imitation-Enhanced Reinforcement Learning With Privileged Smooth Transition for Hexapod Locomotion](https://ieeexplore.ieee.org/document/10752370)
+[Imitation-Enhanced Reinforcement Learning With Privileged Smooth Transition for Hexapod Locomotion](https://ieeexplore.ieee.org/abstract/document/10752370)
 
 **Zhelin Zhang**, Tie Liu, Liang Ding, Haoyu Wang, Peng Xu, Huaiguang Yang, Haibo Gao, Zongquan Deng, Joni Pajarinen
 
 [**Video Material**](https://www.youtube.com/watch?v=8hiOxqW0Vog)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE(under review)</div><img src='images/LAA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Legs-as-Arms:A Multitask Reinforcement Learning Framework for Simultaneous Loco-Manipulation in Hexapod Robots].
+
+**Zhelin Zhang**, Liang Ding, Peng Xu*, Tie Liu, Ao Zhang, Huaiguang Yang, Haibo Gao, Zongquan Deng
+
+[**Project Page**]([https://www.youtube.com/watch?v=8hiOxqW0Vog](https://zzlin1.github.io/Legs_as_Arms.github.io/))
 </div>
 </div>
 
