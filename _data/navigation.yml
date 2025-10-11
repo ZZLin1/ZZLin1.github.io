@@ -6,11 +6,11 @@ main:
   - title: "教育经历"
     url: "/#educations"
 
-  - title: "实习经历"
-    url: "/#internships"
-
   - title: "学术论文"
     url: "/#publications"
+
+  - title: "项目经历"
+    url: "/#projects"
 
   - title: "竞赛奖项"
     url: "/#awards"
