@@ -68,10 +68,10 @@ Haoyu Wang, Ruyi Zhou, Liang Ding, Tie Liu, **Zhelin Zhang**, Peng Xu, Haibo Gao
 
 - [A high mobility heavy duty hexapod robot for challenging field terrains, design, modeling, and experimental validation], Liang Ding, Yang Su, Peng Xu, Tie Liu, Haibo Gao, Huaiguang Yang, Ruyi Zhou, **Zhelin Zhang**, Haoyu Wang, Junqi Shan, Chongfu Xu and Zongquan Deng. **The International Journal of Robotics Research. (IJRR) (under review)**
 
-# 🎖 项目经历
+# 🛠️ 项目经历
 <span class='anchor' id='projects'></span>
 
-# 🎖 竞赛奖项
+# 🎖️ 竞赛奖项
 <span class='anchor' id='awards'></span>
 
 - *2020.11*, 第十三届“高教杯”全国大学生先进成图大赛, 团体一等奖
