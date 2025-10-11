@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haoyu Wang (王浩宇)"
+title                    : "Zhelin Zhang (张哲霖)"
 description              : "Master student in Harbin Institute of Technology. Focusing on robotics and reinforcement learning"
 repository               : "qrpucp/qrpucp.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Haoyu Wang (王浩宇)"
+  name             : "Zhelin Zhang (张哲霖)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : ""
   location         : # "Harbin, China"
