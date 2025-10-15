@@ -47,7 +47,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE (under review)</div><img src='images/LAA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Legs-as-Arms:A Multitask Reinforcement Learning Framework for Simultaneous Loco-Manipulation in Hexapod Robots](https://zzlin1.github.io/Legs_as_Arms.github.io/).
+[Legs-as-Arms:A Multitask Reinforcement Learning Framework for Simultaneous Loco-Manipulation in Hexapod Robots](https://zzlin1.github.io/Legs_as_Arms.github.io/)
 
 **Zhelin Zhang**, Liang Ding, Peng Xu*, Tie Liu, Ao Zhang, Huaiguang Yang, Haibo Gao, Zongquan Deng
 
@@ -70,6 +70,20 @@ Haoyu Wang, Ruyi Zhou, Liang Ding, Tie Liu, **Zhelin Zhang**, Peng Xu, Haibo Gao
 
 # 🛠️ 项目经历
 <span class='anchor' id='projects'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HIT</div><img src='images/hit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[哈尔滨工业大学“电动蜘蛛”]
+
+负责实验室多台六足机器人（20kg、40kg和80kg量级）的高动态鲁棒强化学习运动控制，具备丰富的强化学习训练、RL运控算法以及Sim2Real经验。相关成果被哈尔滨工业大学各平台官方视频号发布宣传。
+
+[**Bilibili**](https://www.bilibili.com/video/BV1obKVzaE6i/?spm_id_from=333.337.search-card.all.click&vd_source=5b426103b2291b2845953e669234f59b)
+[**抖音**](https://www.douyin.com/video/7519426876566195506)
+[**小红书**](http://xhslink.com/o/8NnW7omq6yw )
+
+</div>
+</div>
+
 
 # 🎖️ 竞赛奖项
 <span class='anchor' id='awards'></span>
