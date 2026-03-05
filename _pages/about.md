@@ -44,7 +44,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE (under review)</div><img src='images/LAA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE 2026</div><img src='images/LAA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Legs-as-Arms:A Multitask Reinforcement Learning Framework for Simultaneous Loco-Manipulation in Hexapod Robots](https://zzlin1.github.io/Legs_as_Arms.github.io/)
@@ -65,6 +65,21 @@ Haoyu Wang, Ruyi Zhou, Liang Ding, Tie Liu, **Zhelin Zhang**, Peng Xu, Haibo Gao
 [**Project Page**](https://qrpucp.github.io/whole_body_constrained_learning/) 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/PegasusFlow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PegasusFlow: Parallel Rolling-Denoising Score Sampling for Robot Diffusion Planner Flow Matching](https://arxiv.org/abs/2509.08435)
+
+Lei Ye, Haibo Gao, Peng Xu, **Zhelin Zhang**, Junqi Shan, Ao Zhang, Wei Zhang, Ruyi Zhou, Zongquan Deng, Liang Ding
+
+[**Paper**](https://arxiv.org/abs/2509.08435) 
+[**Video Material**](https://www.youtube.com/watch?v=XMT02bo-Adc) 
+
+</div>
+</div>
+
+
 
 - [A high mobility heavy duty hexapod robot for challenging field terrains, design, modeling, and experimental validation], Liang Ding, Yang Su, Peng Xu, Tie Liu, Haibo Gao, Huaiguang Yang, Ruyi Zhou, **Zhelin Zhang**, Haoyu Wang, Junqi Shan, Chongfu Xu and Zongquan Deng. **The International Journal of Robotics Research. (IJRR) (under review)**
 
